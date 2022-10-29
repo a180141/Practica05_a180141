@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/D:/ejerciciosSW/practica5/ejemplo2.xsl"?>
+<celulares>
+  <celular>
+    <marca>SAMSUNG</marca>
+    <modelo>Galaxi S22 Ultra</modelo>
+  </celular>
+  <celular>
+    <marca>XIAOMI</marca>
+    <modelo>Redmi Note 11 pro</modelo>
+  </celular>
+  <celular>
+    <marca>HUAWEI</marca>
+    <modelo>Nova Y90</modelo>
+  </celular>
+  <celular>
+    <marca>OPPO</marca>
+    <modelo>reno 7</modelo>
+  </celular>
+  <celular>
+    <marca>APPLE</marca>
+    <modelo>Iphone 13</modelo>
+  </celular>
+</celulares>
